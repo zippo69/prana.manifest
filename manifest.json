@@ -1,0 +1,37 @@
+{
+  "name": "Prana Edelsteine",
+  "short_name": "Prana",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#9e7e57",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://images.squarespace-cdn.com/content/67b7298b0b8bd809f37854b0/662970b9-69ad-4a7d-84d6-d631f5869642/android-chrome-192x192%5B1%5D.png?content-type=image%2Fpng",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/67b7298b0b8bd809f37854b0/aaeec8b6-8d4b-4df6-97e0-40310944ec43/android-chrome-512x512%5B1%5D.png?content-type=image%2Fpng",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/67b7298b0b8bd809f37854b0/dc2334ed-9f23-4806-afe2-f7cf134e0ca8/favicon-32x32%5B1%5D.png?content-type=image%2Fpng",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/67b7298b0b8bd809f37854b0/bf93b9bf-a8b1-4e92-8a2a-c525c957a3a7/favicon-16x16%5B1%5D.png?content-type=image%2Fpng",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/67b7298b0b8bd809f37854b0/6237ffc5-82b4-4313-9be1-ff22e1af6d05/apple-touch-icon%5B1%5D.png?content-type=image%2Fpng",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "apple touch icon"
+    }
+  ]
+}
